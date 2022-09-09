@@ -1,0 +1,16 @@
+{
+  "name": "test-travelajah",
+  "version": "1.0.0",
+  "description": "author sukron ali fajar.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "formik": "1.5.2",
+    "lodash": "4.17.11",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-redux": "7.0.2",
+    "redux": "4.0.1",
+    "yup": "0.27.0"
+  }
+}
